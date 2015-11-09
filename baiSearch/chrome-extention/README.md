@@ -7,6 +7,16 @@
 ### 功能
 本质是仅有几行js代码
 
+<strong>安装前</strong>：
+
+ ![image](https://github.com/l1905/defaultNo/blob/master/baiSearch/chrome-extention/other/bai_1.png)
+ ![image](https://github.com/l1905/defaultNo/blob/master/baiSearch/chrome-extention/other/bai_2.png)
+ ![image](https://github.com/l1905/defaultNo/blob/master/baiSearch/chrome-extention/other/bai_3.png)
+
+<strong>安装后</strong>：
+ ![image](https://github.com/l1905/defaultNo/blob/master/baiSearch/chrome-extention/other/bai_no_1.png)
+ ![image](https://github.com/l1905/defaultNo/blob/master/baiSearch/chrome-extention/other/bai_no_2.png)
+ ![image](https://github.com/l1905/defaultNo/blob/master/baiSearch/chrome-extention/other/bai_no_3.png)
 ### 安装
 
 
